@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6708777415",
+    "firebase_url": "https://sharesquare-51baf.firebaseio.com",
+    "project_id": "sharesquare-51baf",
+    "storage_bucket": "sharesquare-51baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6708777415:android:2a133c19265946e41b49e2",
+        "android_client_info": {
+          "package_name": "com.humber.sharesquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6708777415-ddiqlfio1u6oquaampuel8sv4qa84lfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRbUOMb2CA-qExm26_68jDDSrc1QDSqN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6708777415-ddiqlfio1u6oquaampuel8sv4qa84lfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
